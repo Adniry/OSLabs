@@ -1,6 +1,6 @@
 package lab1;
 
-import static lab1.Main.getRandomNumberUsingNextInt;
+import static common.RandomUtils.getRandomNumberUsingNextInt;
 
 public class Process {
     enum ProcessType {

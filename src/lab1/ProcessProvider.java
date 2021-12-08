@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.LinkedList;
 
-import static lab1.Main.getRandomNumberUsingNextInt;
+import static common.RandomUtils.getRandomNumberUsingNextInt;
 
 public class ProcessProvider {
     private double probability;
